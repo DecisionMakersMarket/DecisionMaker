@@ -1,3 +1,3 @@
 # Group Project
 
-## [Project: Prep 1](/groupprojectrepo/Prep1/)
+## [Project: Prep 1](/DecisionMaker/Prep1/)
