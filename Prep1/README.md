@@ -1,11 +1,11 @@
 # Team Agreement
 
-Deon James
-Kelsee Watts
-**Prentice Merritt
-**Darius Evans
+Deon James  
+Kelsee Watts  
+Prentice Merritt  
+**Darius Evans  
 
-** were not present for prep 1 completion
+** was not present for prep 1 completion
 
 ## Cooperation Plan
 1. What are the key strengths of each person on the team?
