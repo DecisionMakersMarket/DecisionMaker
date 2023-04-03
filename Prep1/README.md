@@ -8,21 +8,25 @@ Prentice Merritt
 ** was not present for prep 1 completion
 
 ## Cooperation Plan
-1. What are the key strengths of each person on the team?
-    Deon - html and JavaScript
-    Kelsee - HTML & javaScript  
 
+1. What are the key strengths of each person on the team?
+    - Deon - html and JavaScript
+    - Kelsee - HTML & javaScript
+    - Prentice - HTML & CSS  
 2. How can you best utilize these strengths in the execution of your project?
-    Deon - By helping  my group with html and JavaScript
-    Kelsee -   
+    - Deon - By helping  my group with html and JavaScript
+    - Kelsee -
+    - Prentice - 
 
 3. In which professional competencies do you each want to develop greater strength?  
     - Deon - Planing and Estimating since I just go by the flow  
-    - Kelsee - Prioritization and Collaboration  
+    - Kelsee - Prioritization and Collaboration 
+    - Prentice - By being a team player and helping my teammates to get the assignment completed 
 
 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?  
     - Deon - Work on part of the project day by day.  
-    - Kelsee - try to set goals for each day and equitably distribute the workload to play to each other's strenghts  
+    - Kelsee - try to set goals for each day and equitably distribute the workload to play to each other's strenghts
+    - Prentice - Divde the responibiles between everyone to get the project done 
 
 -----
 
@@ -31,17 +35,17 @@ Prentice Merritt
 1. What will be your group’s process to resolve conflict, when it arises? 
     - We can try to come to a compromise when conflict arises. Determine what the conflict is and come to an agreement on a middle ground.
     
-What will your team do if one person is taking over the project and not letting the other members contribute?
+2. What will your team do if one person is taking over the project and not letting the other members contribute?
     - Address them directly and direct them to the note on the Project: Prep 1 assign
 
-How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?  
+3. How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?  
     - Kelsee - try to keep an open mind and set daily goals that build on out individual strenghts.
 
-How will you raise concerns to members who are not adequately contributing?  
+4. How will you raise concerns to members who are not adequately contributing?  
     - Deon - Ask them nicely to help contributing  
     - Kelsee - ask them if they feel the work is too much and try to see if there are tasks we can trade off the keep an even distribution of work.
 
-How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+5. How and when will you escalate the conflict if your resolution attempts are unsuccessful?
     - Reach out to instructors for advice  
 
 -----
