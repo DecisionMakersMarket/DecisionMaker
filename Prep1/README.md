@@ -22,7 +22,8 @@ Prentice Merritt
 
 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?  
     - Deon - Work on part of the project day by day.  
-    - Kelsee - try to set goals for each day and equitably distribute the workload to play to each other's strenghts
+    - Kelsee - try to set goals for each day and equitably distribute the workload to play to each other's strenghts  
+
 -----
 
 ##  Conflict Plan
@@ -41,7 +42,8 @@ How will you raise concerns to members who are not adequately contributing?
     - Kelsee - ask them if they feel the work is too much and try to see if there are tasks we can trade off the keep an even distribution of work.
 
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?
-    - Reach out to instructors for advice
+    - Reach out to instructors for advice  
+
 -----
 
 ##  Communication Plan
@@ -69,7 +71,8 @@ How and when will you escalate the conflict if your resolution attempts are unsu
 
 7. How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
     - Deon - Good Communication with peers
-    - Kelsee - Daily check ins with team members
+    - Kelsee - Daily check ins with team members  
+
 -----
 
 ## Work Plan 
@@ -77,7 +80,8 @@ How and when will you escalate the conflict if your resolution attempts are unsu
     - We can make a daily to-do list and divy up the work based on each other's skillset. We can use Monday to track progress.
 
 2. What project management tool will be used?
-    - The Monday app
+    - The Monday app  
+    
 -----
 
 # Git Process
