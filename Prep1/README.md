@@ -2,7 +2,7 @@
 
 Deon James  
 Kelsee Watts  
-Prentice Merritt  
+**Prentice Merritt  
 **Darius Evans  
 
 ** was not present for prep 1 completion
@@ -13,9 +13,10 @@ Prentice Merritt
     - Deon - html and JavaScript
     - Kelsee - HTML & javaScript
     - Prentice - HTML & CSS  
+    
 2. How can you best utilize these strengths in the execution of your project?
     - Deon - By helping  my group with html and JavaScript
-    - Kelsee -
+    - Kelsee - however my team sees fit; just keeping an open mind
     - Prentice - 
 
 3. In which professional competencies do you each want to develop greater strength?  
