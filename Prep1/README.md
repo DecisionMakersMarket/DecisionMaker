@@ -8,21 +8,26 @@ Kelsee Watts
 ** was not present for prep 1 completion
 
 ## Cooperation Plan
+
 1. What are the key strengths of each person on the team?
     - Deon - html and JavaScript
-    - Kelsee - HTML & JavaScript  
-
+    - Kelsee - HTML & javaScript
+    - Prentice - HTML & CSS  
+    
 2. How can you best utilize these strengths in the execution of your project?
     - Deon - By helping  my group with html and JavaScript
     - Kelsee - however my team sees fit; just keeping an open mind
+    - Prentice - 
 
 3. In which professional competencies do you each want to develop greater strength?  
     - Deon - Planing and Estimating since I just go by the flow  
-    - Kelsee - Prioritization and Collaboration  
+    - Kelsee - Prioritization and Collaboration 
+    - Prentice - By being a team player and helping my teammates to get the assignment completed 
 
 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?  
     - Deon - Work on part of the project day by day.  
-    - Kelsee - try to set goals for each day and equitably distribute the workload to play to each other's strenghts  
+    - Kelsee - try to set goals for each day and equitably distribute the workload to play to each other's strenghts
+    - Prentice - Divde the responibiles between everyone to get the project done 
 
 -----
 
