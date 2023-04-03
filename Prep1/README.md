@@ -100,5 +100,5 @@ How many people must review a PR?
 Who merges PRs?  
 How often will you merge?  
 How will you communicate that it’s time to merge?  
-    - we will follow the guidlines provided in prep 3
+    - we will follow the guidelines provided in prep 3
 
