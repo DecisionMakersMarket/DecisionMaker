@@ -16,20 +16,24 @@ header {
 
 #eightBall {
     position: relative;
-    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #answer {
     position: absolute;
     width: 12%;
     top: 50%;
-    margin-top: -60px;
-    margin-left: -65px;
-    font-size: 12px; 
+    margin-top: -46px;
+    font-size: 15px; 
     font-family: cursive;
     color: #f6f6f6;
     text-align: center;
 }
+
+
+
 
 button {
     font-size: 25px;
@@ -40,6 +44,7 @@ button {
     padding: 10px;
     display: block;
     margin: 0 auto;
+    margin-top: 20px;
 }
 
 button:hover {
