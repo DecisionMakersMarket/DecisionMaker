@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     var magic8Ball = {};
-    magic8Ball.listOfAnswers =["Naw", "Yea", "I don't think so...", "Fasho", "nada", "In your dreams.","Don't count on it","Ask again later", "Most likely", "Better not tell you now", "Let it go","negative","postive","nah"];
+    magic8Ball.listOfAnswers =["Naw", "Yea", "I don't think so...", "Fasho", "Nope", "In your dreams.","Don't count on it","Ask again later", "Most likely", "Better not tell you now", "Let it go","negative","postive","nah"];
   
     $("#answer").hide();
   
